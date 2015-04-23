@@ -5,9 +5,9 @@ exports.dev = {
 };
 
 exports.prd = {
-    "clientId": "3MVG9Y6d_Btp4xp5NwcRLAU5Ct0KYYb5tqzhfcmTuZ2jFVmU2Ak5uGx0p1auRZLptPq4IB396N4pQ2X7BK5J7",
-    "clientSecret": "5291655085722911176",
-    "redirectUri": "https://haoku.herokuapp.com/oauth/callback"
+    "clientId": "3MVG9Y6d_Btp4xp6Es1QfF8oIsgjcjtFHyx7sdhl7V8sh_CINU9v0WOLTBqV1QyXMuIpGcTQuGIcHGrUrtCma",
+    "clientSecret": "8912425315286274910",
+    "redirectUri": "https://workbench-mouse.herokuapp.com/oauth/callback"
 };
 
 exports.fields = {
